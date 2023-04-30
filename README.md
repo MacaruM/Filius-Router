@@ -5,4 +5,5 @@
 
 ## Risoluzione:
 
-###Inanzitutto abbiamo configurato il router 
+### Inanzitutto abbiamo configurato il router assegnando i giusti ip alle 2 porte
+### ![foto router](/foto filius router/ip router.png)
