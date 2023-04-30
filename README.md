@@ -8,3 +8,6 @@
 ### Inanzitutto abbiamo configurato il router assegnando i giusti ip alle 2 porte
  ![router](/router/ip.png)
 
+### In seguito abbiamo configurato i pc delle reti assegnando a 1 dei due ip e gateway e all'altro assegnavamo l'ip tramite DHCP:
+### ![pc](/router/pc.png)
+
