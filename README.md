@@ -6,4 +6,5 @@
 ## Risoluzione:
 
 ### Inanzitutto abbiamo configurato il router assegnando i giusti ip alle 2 porte
-### ![router](/router/ip.png)
+ ![router](/router/ip.png)
+
