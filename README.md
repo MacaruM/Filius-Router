@@ -12,4 +12,7 @@
 ### ![pc](/router/pc.png)
 
 ### Qua assegnamo gateway e DNS Server in modo da far funzionare il nostro assegnamento tramite DHCP
-### ![pc](/router/dhcp.png)
+### ![dhcp](/router/dhcp.png)
+
+### Infiine eseguendo un ping da una un pc di una rete al pc dell'altra rete possiamo notare che riescono a comunicare e quindi i pacchetti vengono inviati con successo senza errori:
+### ![ping](/router/ping.png)
